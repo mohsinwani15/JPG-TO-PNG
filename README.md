@@ -59,6 +59,4 @@ If `png_images` does not already exist, it will be created.
 
 This script is provided as-is. Feel free to use and modify it according to your needs.
 
----
 
-Feel free to adjust the content based on any additional details or requirements you might have!
