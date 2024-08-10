@@ -1,6 +1,4 @@
-Sure! Here’s a simple `README.md` for your script that converts JPG images to PNG format:
 
----
 
 # JPG to PNG Converter
 
